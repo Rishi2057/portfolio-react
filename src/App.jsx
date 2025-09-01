@@ -58,7 +58,7 @@ function App() {
         </div>
       </div>
       {/* portfolio */}
-<div id='portfolio' className='pt-10'>
+<div id='portfolio' className='pt-50'>
 <div  className='min-h-fit mt-10 bg-[url("https://t4.ftcdn.net/jpg/04/21/44/29/360_F_421442912_e9dARIDF7CnBKKcB1Ooy0aNcEOJ13eVY.jpg")] py-5 md:py-15'>
         <div className='flex justify-center'>
           <h1 className='px-10 py-1 border-4 text-3xl font-[500] text-gray-700'>PORTFOLIO</h1>
