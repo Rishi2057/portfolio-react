@@ -92,16 +92,16 @@ function App() {
           <div></div>
           <div className='space-y-10'>
             <div className='px-10'>
-              <input type="text" className='border-l-4 border-b-4 w-full py-2 px-3' placeholder='ENTER YOUR NAME*' />
+              <input type="text" className='border-l-4 border-b-4 w-full outline-0 py-2 px-3' placeholder='ENTER YOUR NAME*' />
             </div>
             <div className='px-10'>
-              <input type="text" className='border-l-4 border-b-4 w-full py-2 px-3' placeholder='ENTER YOUR EMAIL*' />
+              <input type="text" className='border-l-4 border-b-4 w-full outline-0 py-2 px-3' placeholder='ENTER YOUR EMAIL*' />
             </div>
             <div className='px-10'>
-              <input type="text" className='border-l-4 border-b-4 w-full py-2 px-3' placeholder='PHONE NUMBER*' />
+              <input type="text" className='border-l-4 border-b-4 w-full outline-0 py-2 px-3' placeholder='PHONE NUMBER*' />
             </div>
             <div className='px-10'>
-              <textarea name="" className='border-l-4 border-b-4 w-full pb-8 px-3' placeholder='YOUR MESSEGE*' id=""></textarea>
+              <textarea name="" className='border-l-4 border-b-4 w-full outline-0 pb-8 px-3' placeholder='YOUR MESSEGE*' id=""></textarea>
             </div>
             <div className='flex justify-center'>
               <button className='border-l-4 border-r-4 px-8 cursor-pointer py-1 font-medium'>
