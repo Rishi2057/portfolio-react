@@ -80,7 +80,7 @@ function Navbar() {
           >
             Contact Me
           </button>
-        </div> </a>
+         </a>
 
         {/* Mobile Menu Button */}
         <button
