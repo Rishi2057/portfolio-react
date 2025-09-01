@@ -71,7 +71,7 @@ function Navbar() {
               Portfolio
             </a>
           </div>
-          <button
+          <a href="contact"></a> <button
             className={`px-4 py-2 rounded-3xl font-semibold transition ${
               scrolled
                 ? "bg-black text-white hover:bg-gray-800"
@@ -80,7 +80,7 @@ function Navbar() {
           >
             Contact Me
           </button>
-        </div>
+        </div> </a>
 
         {/* Mobile Menu Button */}
         <button
@@ -103,9 +103,9 @@ function Navbar() {
             <a href="#home" className="block font-medium">About Me</a>
             <a href="#skills" className="block font-medium">Skills</a>
             <a href="#portfolio" className="block font-medium">Portfolio</a>
-            <button className="bg-white text-black px-4 py-2 rounded-3xl font-semibold hover:bg-gray-200 transition">
+           <a href="contact" ></a><button className="bg-white text-black px-4 py-2 rounded-3xl font-semibold hover:bg-gray-200 transition">
               Contact Me
-            </button>
+            </button></a>
         </div>
       </div>
     </nav>
