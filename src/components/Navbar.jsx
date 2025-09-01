@@ -100,7 +100,7 @@ function Navbar() {
         } ${scrolled ? "bg-black text-white" : "bg-black/90 text-white"}`}
       >
         <div className="py-6 space-y-2">
-            <a href="#about" className="block font-medium">About Me</a>
+            <a href="#home" className="block font-medium">About Me</a>
             <a href="#skills" className="block font-medium">Skills</a>
             <a href="#portfolio" className="block font-medium">Portfolio</a>
             <button className="bg-white text-black px-4 py-2 rounded-3xl font-semibold hover:bg-gray-200 transition">
