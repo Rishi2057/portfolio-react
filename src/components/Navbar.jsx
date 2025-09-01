@@ -47,7 +47,7 @@ function Navbar() {
         <div className="hidden md:flex gap-10 items-center">
           <div className="flex gap-10">
             <a
-              href="#about"
+              href="#home"
               className={`font-medium transition ${
                 scrolled ? "text-black hover:text-gray-600" : "text-white hover:text-gray-300"
               }`}
