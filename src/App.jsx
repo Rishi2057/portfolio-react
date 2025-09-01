@@ -84,7 +84,7 @@ function App() {
         </div>
       </div>
       {/* contact */}
-      <div className='h-screen'>
+      <div id='contact' className='h-screen'>
         <div className='pt-25 flex justify-center'>
           <h1 className='px-10 py-1 border-4 text-3xl font-[500] '>CONTACT</h1>
         </div>
